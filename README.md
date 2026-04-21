@@ -11,3 +11,7 @@
 ## Usage
 
 This repository is intended for practicing pull request workflows in gh-dash.
+
+## Quick start
+
+Открыть gh-dash настроить фильтрацию на репозиторий.
